@@ -20,7 +20,8 @@
       "subtitle-tr": "",
       "credits-fr": "",
       "credits-tr": ""
-    }
+    },
+    "wals_code": "ams"
   },
   {
     "language": "Anglais",
@@ -31,6 +32,7 @@
     "alphabet": "AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz",
     "credits": "Khalida BENHEDDER",
     "font-family": "NotoSerif-Regular",
+    "font-path": "/usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf",
     "text-direction": "ltr",
     "glossary-subtitle": "English-French",
     "font-family-bold": "NotoSerif-Bold",
@@ -42,7 +44,8 @@
       "subtitle-tr": "",
       "credits-fr": "",
       "credits-tr": ""
-    }
+    },
+    "wals_code": "eng"
   },
   {
     "language": "Turc",
@@ -53,6 +56,7 @@
     "alphabet": "AaÂâBbCcÇçDdEeFfGgĞğHhIıİiÎîJjKkLlMmNnOoÖöPpRrSsŞşTtUuÜüÛûVvYyZz",
     "credits": "Gülseren AKKOÇ",
     "font-family": "NotoSerif-Regular",
+    "font-path": "/usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf",
     "text-direction": "ltr",
     "glossary-subtitle": "Türkçe-Fransizca",
     "font-family-bold": "NotoSerif-Bold",
@@ -64,7 +68,8 @@
       "subtitle-tr": "",
       "credits-fr": "",
       "credits-tr": ""
-    }
+    },
+    "wals_code": "tur"
   },
   {
     "language": "Russe",
@@ -75,6 +80,7 @@
     "alphabet": "АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщЪъЫыЬьЭэЮюЯя",
     "credits": "Natalia SAVELIEVA",
     "font-family": "NotoSerif-Regular",
+    "font-path": "/usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf",
     "text-direction": "ltr",
     "glossary-subtitle": "Русско-французский",
     "font-family-bold": "NotoSerif-Bold",
@@ -86,7 +92,8 @@
       "subtitle-tr": "Русско-Французский",
       "credits-fr": "Traduction : Natalia SAVELIEVA",
       "credits-tr": "Перевод : Наталья САВЕЛЬЕВА"
-    }
+    },
+    "wals_code": "rus"
   },
   {
     "language": "Ukrainien",
@@ -97,6 +104,7 @@
     "alphabet": "АаБбВвГгҐґДдЕеЄєЖжЗзИиІіЇїЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщЮюЯя",
     "credits": "Natalia SAVELIEVA",
     "font-family": "NotoSerif-Regular",
+    "font-path": "/usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf",
     "text-direction": "ltr",
     "glossary-subtitle": "Українсько-французька",
     "font-family-bold": "NotoSerif-Bold",
@@ -149,7 +157,8 @@
       "subtitle-tr": "Українсько-Французький",
       "credits-fr": "Traduction : Natalia SAVELIEVA",
       "credits-tr": "Переклад : Наталія САВЕЛЬЄВА"
-    }
+    },
+    "wals_code": "ukr"
   },
   {
     "language": "Roumain",
@@ -160,6 +169,7 @@
     "alphabet": "AaĂăÂâBbCcDdEeFfGgHhIiÎîJjKkLlMmNnOoPpQqRrSsȘșTtȚțUuVvWwXxYyZz",
     "credits": "Annamaria LOCSE, Alexandra DEACONESCU, Ramona MIHAILOV",
     "font-family": "NotoSerif-Regular",
+    "font-path": "/usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf",
     "text-direction": "ltr",
     "glossary-subtitle": "ROMÂNĂ-FRANCEZĂ",
     "font-family-bold": "NotoSerif-Bold",
@@ -171,7 +181,8 @@
       "subtitle-tr": "",
       "credits-fr": "",
       "credits-tr": ""
-    }
+    },
+    "wals_code": "rom"
   },
   {
     "alphabet": "Aa-Áá-Bb-Cc-Cscs-Dd-Ee-Éé-Ff-Gg-Gygy-Hh-Ii-Íí-Jj-Kk-Ll-Lyly-Mm-Nn-Oo-Óó-Öö-Őő-Pp-Qq-Rr-Ss-Szsz-Tt-Tyty-Uu-Úú-Üü-Űű-Vv-Ww-Xx-Yy-Zz-Zszs",
@@ -182,6 +193,7 @@
     "uri": "1oTh6b6TciHCcgzjUHqtG-qh6if2dD2LPg_uAC4IxfF4",
     "credits": "Annamaria LOCSE",
     "font-family": "NotoSerif-Regular",
+    "font-path": "/usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf",
     "text-direction": "ltr",
     "glossary-subtitle": "Magyar-Francia",
     "font-family-bold": "NotoSerif-Bold",
@@ -193,7 +205,8 @@
       "subtitle-tr": "",
       "credits-fr": "",
       "credits-tr": ""
-    }
+    },
+    "wals_code": "hun"
   },
   {
     "language": "Tigrinya",
@@ -204,6 +217,7 @@
     "alphabet": "ሀሁሂሃሄህሆለሉሊላሌልሎሏሐሑሒሓሔሕሖሗመሙሚማሜምሞሟሠሡሢሣሤሥሦሧረሩሪራሬርሮሯሰሱሲሳሴስሶሷሸሹሺሻሼሽሾሿቀቁቂቃቄቅቆቇቐቑቒቓቔቕቖበቡቢባቤብቦቧቨቩቪቫቬቭቮቯተቱቲታቴትቶቷቸቹቺቻቼችቾቿኀኁኂኃኄኅኆኇነኑኒናኔንኖኗኘኙኚኛኜኝኞኟአኡኣኤእኦኧከኩኪካኬክኮኯኸኹኺኻኼኽኾወዉዊዋዌውዎዐዑዒዓዔዕዖዘዙዚዛዜዝዞዟዠዡዢዣዤዥዦዧየዩዪያዬይዮዯደዱዲዳዴድዶዷዸዹዺዻዼዽዾዿጀጁጂጃጄጅጆጇገጉጊጋጌግጎጏጘጙጚጛጜጝጞጟጠጡጢጣጤጥጦጧጨጩጪጫጬጭጮጯጰጱጲጳጴጵጶጷጸጹጺጻጼጽጾጿፀፁፂፃፄፅፆፇፈፉፊፋፌፍፎፏፐፑፒፓፔፕፖፗቈቊቋቌቍቘቚቛቜቝኈኊኋኌኍኰኲኳኴኵዀዂዃዄዅጐጒጓጔጕ",
     "credits": "Rozina ASMERON, Yirgalem TEKLABE",
     "font-family": "jiret",
+    "font-path": "/content/drive/MyDrive/Trad-Union/Corpus/ASAMLA/jiret.ttf",
     "text-direction": "ltr",
     "glossary-subtitle": "",
     "font-family-bold": "jiret",
@@ -215,7 +229,8 @@
       "subtitle-tr": "",
       "credits-fr": "",
       "credits-tr": ""
-    }
+    },
+    "wals_code": "tig"
   },
   {
     "language": "Albanais",
@@ -226,6 +241,7 @@
     "alphabet": "Aa-Bb-Cc-Çç-Dd-Dhdh-Ee-Ëë-Ff-Gg-Gjgj-Hh-Ii-Jj-Kk-Ll-Llll-Mm-Nn-Njnj-Oo-Pp-Qq-Rr-Rrrr-Ss-Shsh-Tt-Thth-Uu-Vv-Ww-Xx-Xhxh-Yy-Zz-Zhzh",
     "credits": "Xhemshit ALITI",
     "font-family": "NotoSerif-Regular",
+    "font-path": "/usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf",
     "text-direction": "ltr",
     "glossary-subtitle": "",
     "font-family-bold": "NotoSerif-Bold",
@@ -237,7 +253,8 @@
       "subtitle-tr": "",
       "credits-fr": "",
       "credits-tr": ""
-    }
+    },
+    "wals_code": "alb"
   },
   {
     "language": "Géorgien",
@@ -248,6 +265,7 @@
     "alphabet": "ᲐᲑᲒᲓᲔᲕᲖᲗᲘᲙᲚᲛᲜᲝᲞᲟᲠᲡᲢᲣᲤᲥᲦᲧᲨᲩᲪᲫᲬᲭᲮᲯᲰ",
     "credits": "Nina PRIMAKOFF",
     "font-family": "arial_geo",
+    "font-path": "/content/drive/MyDrive/Trad-Union/Corpus/ASAMLA/arial_geo.ttf",
     "text-direction": "ltr",
     "glossary-subtitle": "ქართულ-ფრანგული ლექსიკა",
     "font-family-bold": "arial_geo-bold",
@@ -259,7 +277,8 @@
       "subtitle-tr": "",
       "credits-fr": "",
       "credits-tr": ""
-    }
+    },
+    "wals_code": "geo"
   },
   {
     "language": "Arménien",
@@ -270,6 +289,7 @@
     "alphabet": "ԱաԲբԳգԴդԵեԶզԷէԸըԹթԺժԻիԼլԽխԾծԿկՀհՁձՂղՃճՄմՅյՆնՇշՈոՉչՊպՋջՌռՍսՎվՏտՐրՑցՒւՓփՔքՕօՖֆև",
     "credits": "Nuné DZHALALYAN",
     "font-family": "NotoSerifArmenian-Regular",
+    "font-path": "/usr/share/fonts/truetype/noto/NotoSerifArmenian-Regular.ttf",
     "text-direction": "ltr",
     "glossary-subtitle": "",
     "font-family-bold": "NotoSerifArmenian-Bold",
@@ -281,7 +301,8 @@
       "subtitle-tr": "",
       "credits-fr": "",
       "credits-tr": ""
-    }
+    },
+    "wals_code": "arm"
   },
   {
     "language": "Dari",
@@ -292,7 +313,7 @@
     "alphabet": "اآبپتثجچحخدذرزژسشصضطظعغفقکگلمنوهی",
     "credits": "Massouda et Yalda HEMATYAR",
     "font-family": "Adobe Arabic Regular",
-    "font-path": "/content/drive/MyDrive/Trad-Union/Corpus/ASAMLA/resources/Adobe Arabic Regular.ttf",    
+    "font-path": "/content/drive/MyDrive/Trad-Union/Corpus/ASAMLA/resources/Adobe Arabic Regular.ttf",
     "text-direction": "rtl",
     "glossary-subtitle": "دری-فرانسوی",
     "font-family-bold": "DejaVuSans-Bold",
@@ -304,7 +325,8 @@
       "subtitle-tr": "",
       "credits-fr": "",
       "credits-tr": ""
-    }
+    },
+    "wals_code": "dri"
   },
   {
     "language": "Pashto",
@@ -315,7 +337,7 @@
     "alphabet": "اآبپتثجچحخدذرزژسشصضطظعغفقکگلمنوهی",
     "credits": "Massouda et Yalda HEMATYAR",
     "font-family": "Adobe Arabic Regular",
-    "font-path": "/content/drive/MyDrive/Trad-Union/Corpus/ASAMLA/resources/Adobe Arabic Regular.ttf",        
+    "font-path": "/content/drive/MyDrive/Trad-Union/Corpus/ASAMLA/resources/Adobe Arabic Regular.ttf",
     "text-direction": "rtl",
     "glossary-subtitle": "",
     "font-family-bold": "Adobe Arabic Regular",
@@ -327,7 +349,8 @@
       "subtitle-tr": "",
       "credits-fr": "",
       "credits-tr": ""
-    }
+    },
+    "wals_code": "psh"
   },
   {
     "language": "Fârsi",
@@ -336,9 +359,9 @@
     "idx": 14,
     "update": "false",
     "alphabet": "اآبپتثجچحخدذرزژسشصضطظعغفقکگلمنوهی",
-	"credits": "Massouda et Yalda HEMATYAR",
+    "credits": "Massouda et Yalda HEMATYAR",
     "font-family": "Adobe Arabic Regular",
-    "font-path": "/content/drive/MyDrive/Trad-Union/Corpus/ASAMLA/resources/Adobe Arabic Regular.ttf",        
+    "font-path": "/content/drive/MyDrive/Trad-Union/Corpus/ASAMLA/resources/Adobe Arabic Regular.ttf",
     "text-direction": "rtl",
     "glossary-subtitle": "",
     "font-family-bold": "DejaVuSans-Bold",
@@ -350,17 +373,19 @@
       "subtitle-tr": "",
       "credits-fr": "",
       "credits-tr": ""
-    }
+    },
+    "wals_code": "prs"
   },
   {
     "language": "Azéri",
     "trigramme": "aze",
-    "uri": "1g7Y20Gm5NYamsasK1KzUuVPVg6RMrzSyyWUOJZHyNko",
+    "uri": "1Le1Ek1EKvOMl1A4tSwNYnW5ubedTLuyDpVqqCuHDNnU",
     "idx": 15,
     "update": "false",
     "alphabet": "",
     "credits": "",
     "font-family": "NotoSerif-Regular",
+    "font-path": "/usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf",
     "text-direction": "ltr",
     "glossary-subtitle": "",
     "font-family-bold": "NotoSerif-Bold",
@@ -372,7 +397,8 @@
       "subtitle-tr": "",
       "credits-fr": "",
       "credits-tr": ""
-    }
+    },
+    "wals_code": "aze"
   },
   {
     "language": "Espagnol",
@@ -383,6 +409,7 @@
     "alphabet": "AaÁáBbCcDdEeÉéFfGgHhIiÍíJjKkLlMmNnÑñOoÓóPpQqRrSsTtUuÚúÜüVvWwXxYyZz",
     "credits": "Chloé SMALL",
     "font-family": "NotoSerif-Regular",
+    "font-path": "/usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf",
     "text-direction": "ltr",
     "glossary-subtitle": "Español-Francés",
     "font-family-bold": "NotoSerif-Bold",
@@ -394,7 +421,8 @@
       "subtitle-tr": "",
       "credits-fr": "",
       "credits-tr": ""
-    }
+    },
+    "wals_code": "spa"
   },
   {
     "language": "Amharique",
@@ -405,6 +433,7 @@
     "alphabet": "",
     "credits": "",
     "font-family": "NotoSerif-Regular",
+    "font-path": "/usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf",
     "text-direction": "ltr",
     "glossary-subtitle": "",
     "font-family-bold": "NotoSerif-Bold",
@@ -416,7 +445,8 @@
       "subtitle-tr": "",
       "credits-fr": "",
       "credits-tr": ""
-    }
+    },
+    "wals_code": "amh"
   },
   {
     "language": "Allemand",
@@ -427,6 +457,7 @@
     "alphabet": "AaÄäBbCcDdEeFfGgHhIiJjKkLlMmNnOoÖöPpQqRrSsẞßTtUuÜüVvWwXxYyZz",
     "credits": "Canan SIMSEK",
     "font-family": "NotoSerif-Regular",
+    "font-path": "/usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf",
     "text-direction": "ltr",
     "glossary-subtitle": "",
     "font-family-bold": "NotoSerif-Bold",
@@ -438,6 +469,55 @@
       "subtitle-tr": "",
       "credits-fr": "",
       "credits-tr": ""
-    }
+    },
+    "wals_code": "ger"
+  },
+  {
+    "language": "Polonais",
+    "trigramme": "pol",
+    "uri": "1VYju3daJZ7vUFMxJkdGU3ES72P-lDk118H9zsIAo3kI",
+    "idx": 19,
+    "update": "false",
+    "alphabet": "AaĄąBbCcĆćDdEeĘęFfGgHhIiJjKkLlŁłMmNnŃńOoÓóPpQqRrSsŚśTtUuVvWwXxYyZzŹźŻż",
+    "credits": "Jolanta Folwarska",
+    "font-family": "NotoSerif-Regular",
+    "font-path": "/usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf",
+    "text-direction": "ltr",
+    "glossary-subtitle": "",
+    "font-family-bold": "NotoSerif-Bold",
+    "unicode_substition": [],
+    "meta": {
+      "title-fr": "",
+      "title-tr": "",
+      "subtitle-fr": "",
+      "subtitle-tr": "",
+      "credits-fr": "",
+      "credits-tr": ""
+    },
+    "wals_code": "pol"
+  },
+  {
+    "language": "Somali",
+    "trigramme": "som",
+    "uri": "1bnaRpItWaX1cVxrmCnEPUaZ13-IgqBkuNGfKubbNIAs",
+    "idx": 20,
+    "update": "false",
+    "alphabet": "",
+    "credits": "Linda SEIF KAYED",
+    "font-family": "NotoSerif-Regular",
+    "font-path": "/usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf",
+    "text-direction": "ltr",
+    "glossary-subtitle": "",
+    "font-family-bold": "NotoSerif-Bold",
+    "unicode_substition": [],
+    "meta": {
+      "title-fr": "",
+      "title-tr": "",
+      "subtitle-fr": "",
+      "subtitle-tr": "",
+      "credits-fr": "",
+      "credits-tr": ""
+    },
+    "wals_code": "som"
   }
 ]
